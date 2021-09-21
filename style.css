@@ -1,0 +1,47 @@
+h3{
+    font-family: 'Jomhuria', cursive;
+    color:red;
+}
+#googleLens{
+    height: 70px;
+    width:70px;
+}
+h4, .mobileNet_div{
+    font-size: 20px;
+    font-family: 'Gentium Basic', serif;
+
+}
+.btn-primary:hover{
+    background-color: black;
+}
+#testImg{
+    height:350px;
+    width:400px;
+    border-radius: 5%;
+}
+h5{
+    font-size:15px;
+    color:white;
+}
+#img_div{
+    background-color:grey;
+    border-radius:25px;
+    width:550px;
+}
+h2{
+    background-color:white;
+    font-size: 15px;
+    border-radius: 25%;
+    width:200px;
+    font-family: 'Gentium Basic', serif;
+}
+.copy_right_footer
+  {
+    position: fixed;
+    color: grey;
+    bottom:0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+  }
